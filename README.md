@@ -150,7 +150,7 @@ Les contributions sont les bienvenues ! Pour proposer des améliorations :
 
 Licence
 
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails (à créer si nécessaire).
+Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 
 Tu peux copier ce texte directement dans un fichier nommé README.md à la racine de ton dépôt (/rdv-medical/README.md), puis le pousser sur GitHub :
 bash
@@ -158,4 +158,4 @@ git add README.md
 git commit -m "Ajout du README pour le projet"
 git push origin main
 
-Ce README est prêt à l’emploi. Maintenant, revenons à ton problème d’affichage : partage-moi ce que tu vois dans la console du navigateur ou après avoir testé avec le App.jsx minimal que je t’ai proposé ("Bonjour, ça marche !"). On va faire apparaître ton interface !
+
